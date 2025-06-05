@@ -1,4 +1,4 @@
 # Hi! I’m Vanessa
 * 🏫 Currently pursuing a Bachelor’s degree in Intelligent Computing Engineering at [UAA](https://www.uaa.mx/portal/)
-* 🔭 Learning Python, C/C++, HTML/CSS, JavaScript, SQL, Java, C#, R
+* 🔭 Learning Python, C/C++, HTML/CSS, JavaScript, SQL, Java, Assembly, C#, R
 * 📬 Reach me via [vanessa@reteguin.com](mailto:vanessa@reteguin.com) or connect on [LinkedIn](https://www.linkedin.com/in/vanessa-reteguin/)
